@@ -1,2 +1,3 @@
 a = "I AM LEARNING GITHUB AND JENKINS"
-print(a)
+b = " AND ALSO LEARNING CONNECTION B/W THEM"
+print(a+b)
